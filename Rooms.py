@@ -1,6 +1,8 @@
 from Characters import Enemy
 
 class Rooms:
+    # Base class for all rooms
+    # Define common room attributes and method
     def __init__(self, name, description):
         self.name = name
         self.description = description

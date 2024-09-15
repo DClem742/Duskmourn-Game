@@ -1,6 +1,8 @@
 import random
 
 class Character:
+    # Base class for all characters (player characters and enemies)
+    # Define common attributes and methods
     def __init__(self, name, health, attack, defense):
         self.name = name
         self.health = health
@@ -32,6 +34,8 @@ class Character:
         if self.shield_active:
             damage = damage // 2
         self.health -= max(damage - self.defense, 0)
+
+        
 class Hero(Character):
     def __init__(self, name, health, attack, defense, special_ability):
         super().__init__(name, health, attack, defense)
