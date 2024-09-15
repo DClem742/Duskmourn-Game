@@ -21,7 +21,7 @@ class Game:
                     return self.characters[choice]
             print("Invalid choice. Please enter a valid number.")
     def battle(self, player, enemy):
-        print(f"A {enemy.name} sees you enter and attacks!")
+        print(f"{enemy.name} sees you enter and attacks!")
         while player.health > 0 and enemy.health > 0:
             print(f"{player.name} HP: {player.health} | {enemy.name} HP: {enemy.health}")
             print("Choose your action:")
