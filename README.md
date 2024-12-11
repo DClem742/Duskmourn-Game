@@ -1,4 +1,17 @@
 # Duskmourn, House of Horror
+<div style= "color: green">
+.--------------------------------------------------------------------------.
+| ____            _                                                        |
+||  _ \ _   _ ___| | ___ __ ___   ___  _   _ _ __ _ __                     |
+|| | | | | | / __| |/ / '_ ` _ \ / _ \| | | | '__| '_ \                    |
+|| |_| | |_| \__ \   <| | | | | | (_) | |_| | |  | | | |_                  |
+||____/ \__,_|___/_|\_\_| |_| |_|\___/_\__,_|_|_ |_| |_( )                 |
+|| | | | ___  _   _ ___  ___    ___  / _| | | | | ___  |/__ _ __ ___  _ __ |
+|| |_| |/ _ \| | | / __|/ _ \  / _ \| |_  | |_| |/ _ \| '__| '__/ _ \| '__||
+||  _  | (_) | |_| \__ \  __/ | (_) |  _| |  _  | (_) | |  | | | (_) | |   |
+||_| |_|\___/ \__,_|___/\___|  \___/|_|   |_| |_|\___/|_|  |_|  \___/|_|   |
+'--------------------------------------------------------------------------'
+</div>
 
 Welcome to Duskmourn, a house steeped in pain and fear, driven by the unrelenting hunger of its demonic ruler. The House is an endless trap of malevolence with a single goal: to keep survivors trapped within its walls in an infinite loop of terror and fear. Every shadow hides monsters, and every breeze whispers the promise of a fate worse than death. The rooms inside the house are constantly moving and shifting, making it very difficult to traverse through it and find the exit. Within its endlessly shifting halls, survivors desperately try to stay alive against a house full of entities all intent on destroying or devouring them. Duskmourn is ruled by Valgavoth, an elder demon entity who seeks to feed on the fear of those who enter the house.
 
